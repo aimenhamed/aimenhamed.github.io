@@ -10,7 +10,7 @@ const data = [
 ];
 
 const Experience = () => (
-  <Section>
+  <Section id="experience">
     <SectionDivider />
     <SectionTitle main>Experience</SectionTitle>
     <Boxes>
