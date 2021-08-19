@@ -1,5 +1,7 @@
 
-# Personal Portfolio Website
+# [Personal Portfolio Website](https://aimenhamed.github.io/)
+
+https://aimenhamed.github.io/
 
 Personal portfolio website with information about me and some projects that I have completed. The site is very well optimised for mobile! I encourage you to give it a try :)
 
