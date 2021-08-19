@@ -1,8 +1,8 @@
 import React from 'react';
 
-import { Section, SectionText, SectionTitle } from '../../styles/GlobalComponents';
+import { Section, SectionText, SectionTitle } from '../../styles/GlobalComponents/index.style';
 import Button from '../../styles/GlobalComponents/Button';
-import { LeftSection } from './HeroStyles';
+import { LeftSection } from './Hero.style';
 
 const Hero = (props) => (
   <div>
