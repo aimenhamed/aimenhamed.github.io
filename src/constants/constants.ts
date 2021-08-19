@@ -40,9 +40,11 @@ export const projects = [
 ];
 
 export const TimeLineData = [
-  { year: 2017, text: "Started my journey" },
-  { year: 2018, text: "step1" },
-  { year: 2019, text: "step2" },
-  { year: 2020, text: "step3" },
-  { year: 2021, text: "step4" },
+  {
+    year: 2016,
+    text: "Started my journey with HTML, CSS & JavaScript in High school",
+  },
+  { year: 2017, text: "Work experience at CommBank DEA team" },
+  { year: 2020, text: "Began studying Software Engineering at UNSW" },
+  { year: 2021, text: "First internship at Optus as a full stack developer" },
 ];
