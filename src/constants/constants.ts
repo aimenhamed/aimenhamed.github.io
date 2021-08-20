@@ -21,7 +21,7 @@ export const projects = [
   {
     title: "Liqueur",
     description:
-      "This is a code repository for the corresponding YouTube video. In this tutorial, we're going to build and deploy a React Video Chat Application using WebRTC.",
+      "Providing a centralised web application for making cocktails that is user friendly and useful for cocktail makers of all experiences.",
     image: "/images/liqueur.png",
     tags: ["React", "JavaScript", "NodeJS", "Python", "Flask"],
     source: "https://github.com/aimenhamed/seng2021-project",
