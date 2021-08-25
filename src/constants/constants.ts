@@ -1,13 +1,23 @@
 export const projects = [
   {
+    title: "RateCSE",
+    description:
+      "This is a web application where you can rate your favourite CSE courses at UNSW and see which are most popular.",
+    image: "/images/ratecse.png",
+    tags: ["React", "TypeScript", "Python", "Flask", "SQLite"],
+    source: "https://github.com/aimenhamed/ratecse/",
+    visit: "https://ratecse.vercel.app/",
+    id: 0,
+  },
+  {
     title: "WatchTime",
     description:
       "Watch Time is a centralised movie library to search any movie and see it's ratings and overview.",
     image: "/images/watchtime.png",
     tags: ["React", "TypeScript", "NodeJS", "Styled-Components"],
     source: "https://github.com/aimenhamed/watchtime",
-    visit: "https://google.com",
-    id: 0,
+    visit: "https://github.com/aimenhamed/watchtime",
+    id: 1,
   },
   {
     title: "React Shop",
@@ -15,8 +25,8 @@ export const projects = [
     image: "/images/reactshop.png",
     tags: ["React", "TypeScript", "NodeJS", "Material-UI"],
     source: "https://github.com/aimenhamed/react-shop",
-    visit: "https://google.com",
-    id: 1,
+    visit: "https://github.com/aimenhamed/react-shop",
+    id: 2,
   },
   {
     title: "Liqueur",
@@ -25,16 +35,7 @@ export const projects = [
     image: "/images/liqueur.png",
     tags: ["React", "JavaScript", "NodeJS", "Python", "Flask"],
     source: "https://github.com/aimenhamed/seng2021-project",
-    visit: "https://google.com",
-    id: 2,
-  },
-  {
-    title: "Onboarding App",
-    description: "A Flutter project experimenting with images and UI design.",
-    image: "/images/onboard.png",
-    tags: ["Flutter", "Dart"],
-    source: "https://github.com/aimenhamed/onboard-page",
-    visit: "https://github.com/aimenhamed/onboard-page",
+    visit: "https://github.com/aimenhamed/seng2021-project",
     id: 3,
   },
 ];
